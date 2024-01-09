@@ -20,7 +20,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B714FC-FE4C3195 |\n| --- | --- |\n| cve | CVE-2022-22950 |\n| cnnvd | CNNVD-202203-2333 |\n| cnvd | CNVD-2022-34640 |\n| cwe | CWE-770 |\n| level | High |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Vmware Spring Framework 5.3.16 之前的 5.3 版本以及更老的不受支持的版本存在安全漏洞，该漏洞源于特制的 SpEL 表达式可能会导致拒绝服务。 |\n| suggestion | 更新方案： &lt;p&gt;厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B714FC-FE4C3195 |\n| --- | --- |\n| cve | CVE-2022-22950 |\n| cnnvd | CNNVD-202203-2333 |\n| cnvd | CNVD-2022-34640 |\n| cwe | CWE-770 |\n| level | High |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Vmware Spring Framework 5.3.16 之前的 5.3 版本以及更老的不受支持的版本存在安全漏洞，该漏洞源于特制的 SpEL 表达式可能会导致拒绝服务。 |\n| suggestion | 更新方案： 厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本 |"
               },
               "properties": {
                 "tags": [
@@ -44,7 +44,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B7141B-88C18A95 |\n| --- | --- |\n| cve | CVE-2023-20863 |\n| cnnvd | CNNVD-202304-1094 |\n| cwe | CWE-917 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Spring Framework存在安全漏洞，该漏洞源于通过提供特制的 SpEL 表达式会导致拒绝服务 (DoS) 。受影响的产品和版本：spring framework 5.2.24 release及之前版本，5.3.27及之前版本， 6.0.8及之前版本。 |\n| suggestion | 更新方案： &lt;p&gt;厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B7141B-88C18A95 |\n| --- | --- |\n| cve | CVE-2023-20863 |\n| cnnvd | CNNVD-202304-1094 |\n| cwe | CWE-917 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Spring Framework存在安全漏洞，该漏洞源于通过提供特制的 SpEL 表达式会导致拒绝服务 (DoS) 。受影响的产品和版本：spring framework 5.2.24 release及之前版本，5.3.27及之前版本， 6.0.8及之前版本。 |\n| suggestion | 更新方案： 厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本 |"
               },
               "properties": {
                 "tags": [
@@ -68,7 +68,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B7141B-88C15B95 |\n| --- | --- |\n| cve | CVE-2023-20861 |\n| cnnvd | CNNVD-202303-1917 |\n| cwe | CWE-404 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Spring Framework 6.0.0 到 6.0.6、5.3.0 到 5.3.25、5.2.0 到 5.2.22版本以及不受支持得版本存在安全漏洞，该漏洞源于用户提供的特制 SpEL 表达式可能会导致拒绝服务 (DoS) 。 |\n| suggestion | 更新方案： &lt;p&gt;厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B7141B-88C15B95 |\n| --- | --- |\n| cve | CVE-2023-20861 |\n| cnnvd | CNNVD-202303-1917 |\n| cwe | CWE-404 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Spring Framework 6.0.0 到 6.0.6、5.3.0 到 5.3.25、5.2.0 到 5.2.22版本以及不受支持得版本存在安全漏洞，该漏洞源于用户提供的特制 SpEL 表达式可能会导致拒绝服务 (DoS) 。 |\n| suggestion | 更新方案： 厂商已发布了漏洞修复程序，请使用此产品的用户尽快更新至安全版本 |"
               },
               "properties": {
                 "tags": [
@@ -92,7 +92,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B714FC-FE4C7795 |\n| --- | --- |\n| cve | CVE-2022-22968 |\n| cnnvd | CNNVD-202204-3302 |\n| cwe | CWE-178 |\n| level | Medium |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Vmware Spring Framework存在安全特征问题漏洞，该漏洞源于DataBinder上disallowedFields的模式是区分大小写的，这意味着字段没有得到有效保护，除非该字段的第一个字符同时以大写和小写字母列出，包括属性路径中所有嵌套字段的第一个字符的大写和小写字母。远程攻击者利用该漏洞可以绕过实施的安全限制。 |\n| suggestion | 更新方案： &lt;p style=&#34;margin-top: 0px; margin-bottom: 1em; color: rgb(102, 102, 102); font-size: 14px; white-space: normal; background-color: rgb(247, 247, 247);&#34;&gt;&lt;/p&gt;&lt;p style=&#34;margin-top: 0px; margin-bottom: 1em; color: rgb(102, 102, 102);&#34;&gt;请使用此产品的用户尽快更新至安全版本&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B714FC-FE4C7795 |\n| --- | --- |\n| cve | CVE-2022-22968 |\n| cnnvd | CNNVD-202204-3302 |\n| cwe | CWE-178 |\n| level | Medium |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Vmware Spring Framework存在安全特征问题漏洞，该漏洞源于DataBinder上disallowedFields的模式是区分大小写的，这意味着字段没有得到有效保护，除非该字段的第一个字符同时以大写和小写字母列出，包括属性路径中所有嵌套字段的第一个字符的大写和小写字母。远程攻击者利用该漏洞可以绕过实施的安全限制。 |\n| suggestion | 更新方案： 请使用此产品的用户尽快更新至安全版本 |"
               },
               "properties": {
                 "tags": [
@@ -116,7 +116,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B714FC-FE4CAF95 |\n| --- | --- |\n| cve | CVE-2022-22970 |\n| cnnvd | CNNVD-202205-2988 |\n| cwe | CWE-770 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Spring Framework 存在输入验证错误漏洞，攻击者利用该漏洞可通过将数据绑定到MultipartFile导致Spring Framework致命的错误，从而触发拒绝服务。 |\n| suggestion | 更新方案： &lt;p style=&#34;margin-top: 0px; margin-bottom: 1em; color: rgb(102, 102, 102); font-size: 14px; white-space: normal; background-color: rgb(247, 247, 247);&#34;&gt;&lt;/p&gt;&lt;p style=&#34;margin-top: 0px; margin-bottom: 1em; color: rgb(102, 102, 102);&#34;&gt;请使用此产品的用户尽快更新至安全版本&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B714FC-FE4CAF95 |\n| --- | --- |\n| cve | CVE-2022-22970 |\n| cnnvd | CNNVD-202205-2988 |\n| cwe | CWE-770 |\n| level | Medium |\n| desc | Spring Framework是美国Spring团队的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Spring Framework 存在输入验证错误漏洞，攻击者利用该漏洞可通过将数据绑定到MultipartFile导致Spring Framework致命的错误，从而触发拒绝服务。 |\n| suggestion | 更新方案： 请使用此产品的用户尽快更新至安全版本 |"
               },
               "properties": {
                 "tags": [
@@ -140,7 +140,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B70FA5-288CC095 |\n| --- | --- |\n| cve | CVE-2018-1272 |\n| cnnvd | CNNVD-201804-243 |\n| cnvd | CNVD-2018-07569 |\n| cwe | CWE-94 |\n| level | High |\n| desc | Pivotal Software Spring Framework是美国Pivotal Software公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Pivotal Software Spring Framework 5.0.5之前的5.0 版本、4.3.15之前的4.3 版本和不再支持的老版本中存在权限许可和访问控制问题漏洞。远程攻击者可通过发送特制的请求利用该漏洞获取提升的权限。 |\n| suggestion | 用户可参考如下供应商提供的安全公告获得补丁信息：\r\nhttps://pivotal.io/security/cve-2018-1272 |"
+                "markdown": "| id | XMIRROR-E5B70FA5-288CC095 |\n| --- | --- |\n| cve | CVE-2018-1272 |\n| cnnvd | CNNVD-201804-243 |\n| cnvd | CNVD-2018-07569 |\n| cwe | CWE-94 |\n| level | High |\n| desc | Pivotal Software Spring Framework是美国Pivotal Software公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Pivotal Software Spring Framework 5.0.5之前的5.0 版本、4.3.15之前的4.3 版本和不再支持的老版本中存在权限许可和访问控制问题漏洞。远程攻击者可通过发送特制的请求利用该漏洞获取提升的权限。 |\n| suggestion | 用户可参考如下供应商提供的安全公告获得补丁信息：https://pivotal.io/security/cve-2018-1272 |"
               },
               "properties": {
                 "tags": [
@@ -164,7 +164,7 @@
               },
               "help": {
                 "text": "",
-                "markdown": "| id | XMIRROR-E5B71412-91C94C95 |\n| --- | --- |\n| cve | CVE-2021-22096 |\n| cnnvd | CNNVD-202110-1810 |\n| cwe | CWE-20 |\n| level | Medium |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。&lt;br&gt;Vmware Spring Framework 存在安全漏洞，该漏洞源于通过日志注入绕过 Spring Framework 的访问限制，以更改数据。 |\n| suggestion | 更新方案： &lt;p&gt;请使用此产品的用户尽快更新至安全版本，链接：https://github.com/spring-projects/spring-framework/releases&lt;br/&gt;&lt;/p&gt;\n |"
+                "markdown": "| id | XMIRROR-E5B71412-91C94C95 |\n| --- | --- |\n| cve | CVE-2021-22096 |\n| cnnvd | CNNVD-202110-1810 |\n| cwe | CWE-20 |\n| level | Medium |\n| desc | Vmware Spring Framework是美国威睿（Vmware）公司的一套开源的Java、JavaEE应用程序框架。该框架可帮助开发人员构建高质量的应用。Vmware Spring Framework 存在安全漏洞，该漏洞源于通过日志注入绕过 Spring Framework 的访问限制，以更改数据。 |\n| suggestion | 更新方案： 请使用此产品的用户尽快更新至安全版本，链接：https://github.com/spring-projects/spring-framework/releases |"
               },
               "properties": {
                 "tags": [
